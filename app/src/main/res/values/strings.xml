@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BP3_ExplisitIntent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="title_activity_move">MoveActivity</string>
+</resources>
